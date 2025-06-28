@@ -80,5 +80,4 @@ npm start
 ```
 
 ---
-
 *These projects were completed as part of the freeCodeCamp Back End Development and APIs curriculum.*
